@@ -1,0 +1,4 @@
+Add more sources, improve prompts, refine styles
+Sources: Add APIs like Bing Image Search (free tier), Genius API, or scrape more forums.
+Prompts: Fine-tune your GPT prompts for better scripts.
+Video styles: Introduce transitions, overlays, or background music with MoviePy.

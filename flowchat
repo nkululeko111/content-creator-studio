@@ -1,0 +1,7 @@
+flowchart TB
+    A[Scrape Trends] --> B[Generate Scripts]
+    B --> C[Fetch Images]
+    C --> D[Generate TTS Voice]
+    D --> E[Create Video]
+    E --> F[Upload to YouTube]
+    F --> G[Dashboard]
